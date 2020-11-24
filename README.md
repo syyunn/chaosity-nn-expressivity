@@ -1,2 +1,2 @@
 # chaosity-nn-expressivity
-Study relationship btw how much chaos and neural expressivity
+Study relationship btw amount of chaosity and neural expressivity
